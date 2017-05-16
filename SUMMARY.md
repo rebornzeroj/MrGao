@@ -8,6 +8,8 @@
   * [第四天——高效学习](day4.md)
   * [第五天——自我提问](day5.md)
   * [第六天——笔记](day6.md)
+  * [第七天——思考](day7.md)
+
 * [小密圈精华整理](XMQ_Elite.md)
   * [第一周](elite1.md)
 * [More..](more.md)
