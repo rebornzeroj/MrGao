@@ -1,4 +1,4 @@
-# Summary
+[](more.md)# Summary
 
 * [高太爷学习社](README.md)
 * [每日一问](Day-Question.md)
@@ -13,8 +13,8 @@
   * [第九天——思维导图](day9.md)
   * [第十天——画图](day10.md)
   * [第十一天——休息](day11.md)
-  
-  
+  * [第十二天——思维质量](day12.md)
+    
 * [小密圈精华整理](XMQ_Elite.md)
   * [第一周](elite1.md)
 * [More..](more.md)
