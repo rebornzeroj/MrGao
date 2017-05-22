@@ -17,6 +17,7 @@
     
 * [小密圈精华整理](XMQ_Elite.md)
   * [第一周](elite1.md)
+  * [第二周](elite2.md)
 * [More..](more.md)
 
 
