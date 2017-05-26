@@ -1,7 +1,8 @@
-[](more.md)# Summary
+\# Summary
 
 * [高太爷学习社](README.md)
 * [每日一问](Day-Question.md)
+
   * [第一天——初衷](day1.md)
   * [第二天——读书](day2.md)
   * [第三天——成人学习](day3.md)
@@ -14,10 +15,13 @@
   * [第十天——画图](day10.md)
   * [第十一天——休息](day11.md)
   * [第十二天——思维质量](day12.md)
-    
+  * [第十五天——预读](day15.md)
+
 * [小密圈精华整理](XMQ_Elite.md)
+
   * [第一周](elite1.md)
   * [第二周](elite2.md)
+
 * [More..](more.md)
 
 
